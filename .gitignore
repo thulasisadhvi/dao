@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+installed_contracts/
+
+# Hardhat files
+cache/
+artifacts/
+typechain-types/
+
+# Environment variables (CRITICAL: Do not upload keys)
+.env
+
+# General
+.DS_Store
+coverage/
+coverage.json
